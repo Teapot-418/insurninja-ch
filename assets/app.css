@@ -58,7 +58,7 @@ img {
 }
 
 #mc_embed_signup_scroll{
-    margin-top: 8em;
+    margin-top: 8em !important;
 }
 
 .flex {
@@ -72,29 +72,29 @@ img {
 }
 
 #mce-EMAIL {
-    border-radius: 5rem;
-    border: none;
-    padding: 0;
-    padding-left: 0.5rem;
-    width: 18rem;
-    height: 2rem;
-    position: relative;
-    left: 0.5rem;
-    background-color: rgb(43, 39, 39);
-    color: white;
+    border-radius: 5rem !important;
+    border: none !important;
+    padding: 0 !important;
+    padding-left: 0.5rem !important;
+    width: 18rem !important;
+    height: 2rem !important;
+    position: relative !important;
+    left: 0.5rem !important;
+    background-color: rgb(43, 39, 39) !important;
+    color: white !important;
 }
 
 #mc-embedded-subscribe {
-    color: white;
-    background-color: #F94E1F;
-    border: none;
-    cursor: pointer;
-    padding: 0 1.25rem;
-    position: relative;
-    z-index: 2;
-    border-radius: 0rem 5rem 5rem 0rem;
-    font-weight: 400;
-    margin: 0;
-    height: 2rem;
-    line-height: 2rem;
+    color: white !important;
+    background-color: #F94E1F !important;
+    border: none !important;
+    cursor: pointer !important;
+    padding: 0 1.25rem !important;
+    position: relative !important;
+    z-index: 2 !important;
+    border-radius: 0rem 5rem 5rem 0rem !important;
+    font-weight: 400 !important;
+    margin: 0 !important;
+    height: 2rem !important;
+    line-height: 2rem !important;
 }
