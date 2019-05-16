@@ -27,7 +27,8 @@ body {
     background: #1C1D25;
 	color: #FFF;
     font-family: 'Source Sans Pro', sans-serif;
-    background-image: url("./background.jpg");
+    background-image: url("./background_new.jpg");
+    background-size: cover;
 }
 
 h1, h2, h3, h4, h5, h6 {
